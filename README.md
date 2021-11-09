@@ -10,7 +10,7 @@
 
 ## OpenSearch DevOps
 
-A community repository for devops-related code, such as Helm charts, Ansible playbooks, or Kubernetes etc...
+A community repository for devops-related code, such as Helm charts, Ansible playbooks, or Kubernetes etc...a
 
 ## Contributing
 
